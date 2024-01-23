@@ -1,0 +1,6 @@
+C:\Users\Facu\Desktop\Seminario 1\Permisos-Facturacion\Entidades\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\Seminario 1\Permisos-Facturacion\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\Seminario 1\Permisos-Facturacion\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Facu\Desktop\Seminario 1\Permisos-Facturacion\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\Seminario 1\Permisos-Facturacion\Entidades\obj\Debug\Entidades.dll
+C:\Users\Facu\Desktop\Seminario 1\Permisos-Facturacion\Entidades\obj\Debug\Entidades.pdb
